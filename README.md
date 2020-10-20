@@ -1,1 +1,1 @@
-# FM31256
+# FM31256 Arduino I2C library
